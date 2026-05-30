@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceeerify",
+        "uuid": 10006659,
+        "checksum": "370p3"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
